@@ -1,1 +1,1 @@
-# CL_sidebar
+# Champions League Sidebar
